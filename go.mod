@@ -1,10 +1,9 @@
-module ecap
+module home/mikannse/netproc/ecapGrpc
 
 go 1.24.0
 
 require (
 	github.com/GreptimeTeam/greptimedb-ingester-go v0.6.0
-	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
 	golang.org/x/term v0.30.0
 )
 
